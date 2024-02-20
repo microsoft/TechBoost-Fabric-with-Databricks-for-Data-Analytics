@@ -1,3 +1,9 @@
+---
+title: Introduction
+layout: home
+nav_order: 1
+---
+
 # Modern Analytics with Microsoft Fabric and Azure Databricks DREAM Lab
 
 **The estimated time to complete this lab is 45-60 minutes.**
