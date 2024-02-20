@@ -10,7 +10,7 @@
 
 3. You will see a page like the one shown below.You can proceed with next steps while it loads.
 
-!IMAGE[dsm8974d.jpg](../../media/instructions249094/dsm8974d.jpg)
+!IMAGE[dsm8974d.jpg](../media/instructions249094/dsm8974d.jpg)
 
 ## Solution
  
