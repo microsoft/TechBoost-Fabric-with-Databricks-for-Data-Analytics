@@ -11,3 +11,12 @@
 3. You will see a page like the one shown below.You can proceed with next steps while it loads.
 
 !IMAGE[dsm8974d.jpg](instructions249094/dsm8974d.jpg)
+
+## Solution
+ 
+<details markdown="block">
+<summary>Expand this section to view the solution</summary>
+ 
+- To clone a repository, use the command `git clone https://github.com/microsoft/TechExcel-Implementing-automation-practices-using-Azure-OpenAI` in the directory you would like to use.
+ 
+</details>
