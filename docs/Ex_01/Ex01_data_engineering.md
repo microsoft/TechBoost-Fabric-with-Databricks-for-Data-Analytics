@@ -1,3 +1,10 @@
+---
+title: 'Exercise 1: Data Engineering experience...'
+layout: default
+nav_order: 2
+has_children: true
+---
+
 # Exercise 1: Data Engineering experience, Including Data ingestion from a spectrum of analytical data sources into OneLake
 
 *Before we start executing the steps, we will trigger the simulator app to start streaming data to eventhub.*
