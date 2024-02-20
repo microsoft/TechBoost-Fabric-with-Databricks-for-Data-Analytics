@@ -4,7 +4,7 @@
 
 1. Open a **Microsoft Edge browser** from VM desktop.
 
-2. Select the browser url field and enter: **https://app-realtime-kpi-analytics-@lab.LabInstance.Id.azurewebsites.net** to browse app service.
+2. Select the browser url field and enter **https://app-realtime-kpi-analytics-@lab.LabInstance.Id.azurewebsites.net** to browse app service.
 
 	{: .note }
 	> **Do not select anything else on the screen until all of the text has been auto filled.**
