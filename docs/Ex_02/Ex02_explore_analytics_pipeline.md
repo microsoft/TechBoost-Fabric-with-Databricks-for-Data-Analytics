@@ -1,5 +1,5 @@
 ---
-title: 'Exercise 2: Explore an analytics pipeline...'
+title: 'Exercise 2: Explore an analytics pipeline using open Delta format and Azure Databricks Delta Live Tables'
 layout: default
 nav_order: 3
 has_children: true
