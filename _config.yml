@@ -2,13 +2,12 @@ title: Implementing DevOps practices
 description: This lab walks you through setting up the development environment, deploying your appication, and implementing load testing and secure practices.
 theme: just-the-docs
 
-# url: https://v-stephclark.github.io/TechExcel-Implementing-DevOps-practices-to-accelerate-developer-productivity-coaches/
+# url: https://v-stephclark.github.io/https://github.com/microsoft/TechBoost-Fabric-with-Databricks-for-Data-Analytics/
 
 aux_links:
-  "TechExcel: Implementing DevOps practices to accelerate developer productivity": 
-    - "https://github.com/microsoft/TechExcel-Implementing-DevOps-practices-to-accelerate-developer-productivity"
-exclude:
-  - Solution/
+  "TechBoost Fabric wth Databricks for Data Analytics": 
+    - "https://github.com/microsoft/TechBoost-Fabric-with-Databricks-for-Data-Analytics"
+
 callouts_level: quiet # or loud
 callouts:
   highlight:
