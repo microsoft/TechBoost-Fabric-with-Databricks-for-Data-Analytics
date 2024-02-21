@@ -2,8 +2,6 @@ title: Fabric with Databricks
 description: This lab walks you through setting up the development environment, deploying your appication, and implementing load testing and secure practices.
 theme: just-the-docs
 
-# url: https://v-stephclark.github.io/https://github.com/microsoft/TechBoost-Fabric-with-Databricks-for-Data-Analytics/
-
 aux_links:
   "TechBoost Fabric wth Databricks for Data Analytics": 
     - "https://github.com/microsoft/TechBoost-Fabric-with-Databricks-for-Data-Analytics"
