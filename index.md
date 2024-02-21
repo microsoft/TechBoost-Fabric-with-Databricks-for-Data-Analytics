@@ -36,8 +36,6 @@ Here are the Microsoft Fabric workloads showcased in this solution along with Az
 6. Synapse Real-time Analytics
 
 
-**The estimated time to complete this lab is 45-60 minutes.**
-
 ## Exercises
 
 This lab has exercises on:
@@ -49,7 +47,16 @@ This lab has exercises on:
 - Power BI reports using Direct Lake Mode
 - Real-time Analytics experience to explore Streaming data using KQL DB
 
-**DISCLAIMER**
+
+## Prerequisites
+For running this lab you will need:
+
+- An Azure subscription with access to Azure OpenAI.
+- A desktop, laptop, or virtual machine and access to install software on that machine.
+
+
+
+## Disclaimer
 
 This presentation, demonstration, and demonstration model are for informational purposes only and (1) are not subject to SOC 1 and SOC 2 compliance audits, and (2) are not designed, intended or made available as a medical device(s) or as a substitute for professional medical advice, diagnosis, treatment or judgment. Microsoft makes no warranties, express or implied, in this presentation, demonstration, and demonstration model. Nothing in this presentation, demonstration, or demonstration model modifies any of the terms and conditions of Microsoft’s written and signed agreements. This is not an offer and applicable terms and the information provided are subject to revision and may be changed at any time by Microsoft.
 
@@ -59,7 +66,7 @@ The information contained in this presentation, demonstration and demonstration 
 
 No Microsoft technology, nor any of its component technologies, including the demonstration model, is intended or made available as a substitute for the professional advice, opinion, or judgment of (1) a certified financial services professional, or (2) a certified medical professional. Partners or customers are responsible for ensuring the regulatory compliance of any solution they build using Microsoft technologies.
 
-**Copyright**
+## Copyright
 
 © 2023 Microsoft Corporation. All rights reserved. 
 
