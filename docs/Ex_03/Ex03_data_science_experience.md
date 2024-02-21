@@ -1,5 +1,5 @@
 ---
-title: 'Data Science experience including Machine Learning scenarios'
+title: 'Exercise 3: Data Science experience including Machine Learning scenarios'
 layout: default
 nav_order: 4
 has_children: true
