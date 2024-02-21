@@ -1,5 +1,5 @@
 ---
-title: 'Exercise 6: Real-time Analytics experience to explore Streaming data using KQL DB'
+title: 'Exercise 6: Real-time Analytics experience to explore streaming data using KQL DB'
 layout: default
 nav_order: 7
 has_children: true
