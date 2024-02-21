@@ -1,3 +1,10 @@
+---
+title: 'Exercise 6: Real-time Analytics experience to explore Streaming data using KQL DB'
+layout: default
+nav_order: 7
+has_children: true
+---
+
 # Exercise 6: Real-time Analytics experience to explore Streaming data using KQL DB
 In a short span of few months the CDO and his team  implemented transformations using Microsoft Fabric and Azure Databricks.
 
