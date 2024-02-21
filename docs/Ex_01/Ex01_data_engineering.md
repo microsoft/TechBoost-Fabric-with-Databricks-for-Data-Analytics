@@ -1,5 +1,5 @@
 ---
-title: 'Exercise 1: Data Engineering experience...'
+title: 'Exercise 1: Data Engineering experience, including Data ingestion from a spectrum of analytical data sources into OneLake'
 layout: default
 nav_order: 2
 has_children: true
