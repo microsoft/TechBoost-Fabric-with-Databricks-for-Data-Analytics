@@ -14,7 +14,7 @@ has_children: true
 2. Select the browser URL field and select **https://app-realtime-kpi-analytics-@lab.LabInstance.Id.azurewebsites.net** to browse app service.
 
 	{: .note }
-	**Do not select anywhere else on the screen until all of the text has been auto filled.**
+	>**Do not select anywhere else on the screen until all of the text has been auto filled.**
 
 4. You will see a page like the one shown below. You can proceed with next steps while it loads.
 
