@@ -6,13 +6,15 @@ nav_order: 1
 
 # Modern Analytics with Microsoft Fabric and Azure Databricks DREAM Lab
 
+**The estimated time to complete this lab is 45-60 minutes.**
 
 This lab showcases Modern Analytics with Microsoft Fabric and Azure Databricks, featuring a cost-effective, performance-optimized, and cloud-native Analytics solution pattern. This architecture unifies our customers' data estate to accelerate data value creation.
-The visual illustrates the real-world example for Contoso, a fictitious company. Contoso is a retailer with thousands of brick-and-mortar stores across the world. They also have an online store. Contoso is acquiring Litware Inc. Litware Inc. has curated marketing data and sales data processed by Azure Databricks and stored in the gold layer in ADLS Gen 2. 
-During our exercises, we will see how they leveraged the power of Microsoft Fabric to ingest data from disparate sources, combine data with their existing data from ADLS Gen2, and derive meaningful insights. You will witness how the team used a shortcut to reference the existing Litware Inc data from ADLS Gen2. You will also see how they mounted the OneLake endpoint in Azure Databricks to derive meaningful insights using the compute in Azure Databricks.  
 
 ![ArchitectureDiagramMFADBNew.png](docs/media/instructions240153/ArchitectureDiagramMFADBNew.png)
 
+The visual illustrates the real-world example for Contoso, a fictitious company. Contoso is a retailer with thousands of brick-and-mortar stores across the world. They also have an online store. Contoso is acquiring Litware Inc. Litware Inc. has curated marketing data and sales data processed by Azure Databricks and stored in the gold layer in ADLS Gen 2. 
+During our exercises, we will see how they leveraged the power of Microsoft Fabric to ingest data from disparate sources, combine data with their existing data from ADLS Gen2, and derive meaningful insights. You will witness how the team used a shortcut to reference the existing Litware Inc data from ADLS Gen2. You will also see how they mounted the OneLake endpoint in Azure Databricks to derive meaningful insights using the compute in Azure Databricks.  
+ 
 The lab scenario starts on January 30th. The company's new CEO, April, recently noticed negative trends in their KPIs, including:
 
 * High customer churn
@@ -46,14 +48,6 @@ This lab has exercises on:
 - Data Warehouse experience
 - Power BI reports using Direct Lake Mode
 - Real-time Analytics experience to explore Streaming data using KQL DB
-
-
-## Prerequisites
-For running this lab you will need:
-
-- An Azure subscription with access to Azure OpenAI.
-- A desktop, laptop, or virtual machine and access to install software on that machine.
-
 
 
 ## Disclaimer
